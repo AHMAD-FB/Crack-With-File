@@ -21,4 +21,4 @@ git clone https://github.com/AHMAD-FB/Crack-With-File
 
 cd Crack-With-File
 
-python AMD.pyc
+python AMD.py
